@@ -77,6 +77,6 @@ Please ensure your code follows the project's coding standards and includes rele
 ## Contact
 For any questions, feedback, or suggestions, feel free to reach out:
 
-Name: Muhamamd Hamza
-Email: hamzaanwar2003@gmail.com.com
-GitHub: hamzaanwar12
+- Name: Muhamamd Hamza
+- Email: hamzaanwar2003@gmail.com.com
+- GitHub: hamzaanwar12
